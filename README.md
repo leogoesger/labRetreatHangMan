@@ -65,6 +65,12 @@ This project uses [Python3](https://www.python.org/) or [R](https://www.r-projec
    my-virtualenv\Scripts\activate
    ```
 
+## R only
+
+1. Install the `import` package from :
+   + [here](https://cran.r-project.org/web/packages/import/vignettes/import.html), or
+   + ```install.packages('import')```
+
 ## Run Script
 
 1. In project directory

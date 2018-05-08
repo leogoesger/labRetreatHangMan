@@ -67,9 +67,13 @@ This project uses [Python3](https://www.python.org/) or [R](https://www.r-projec
 
 ## R only
 
-1. Install the `import` package from :
-   + [here](https://cran.r-project.org/web/packages/import/vignettes/import.html), or
-   + ```install.packages('import')```
+1. Install the `import` package :
+   ```
+   install.packages('import')
+   ```
+   
+[Details on the package](https://cran.r-project.org/web/packages/import/vignettes/import.html)
+   
 
 ## Run Script
 

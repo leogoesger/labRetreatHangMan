@@ -2,11 +2,11 @@
 
 ## About
 
-This project uses [Python3](https://www.python.org/)
+This project uses [Python3](https://www.python.org/) or [R](https://www.r-project.org/)
 
 ## Getting Started in 3 simple steps (Mac OS)
 
-1. Install [Python3](https://www.python.org/downloads/), [Git](https://git-scm.com/download/) and a [text editor](https://www.sublimetext.com/3) of your choice.
+1. Install [Python3](https://www.python.org/downloads/) or [R](https://www.r-project.org/), [Git](https://git-scm.com/download/) and a [text editor](https://www.sublimetext.com/3) of your choice.
 2. Clone your project in [Terminal](http://www.informit.com/blogs/blog.aspx?uk=The-10-Most-Important-Linux-Commands)
 
    ```
@@ -24,7 +24,7 @@ This project uses [Python3](https://www.python.org/)
 
 ## Getting Started in 5 steps (Windows)
 
-1. Install [Python3](https://www.python.org/downloads/), [Git](https://git-scm.com/download/win) and a [text editor](https://www.sublimetext.com/3) of your choice.
+1. Install [Python3](https://www.python.org/downloads/) or [R](https://www.r-project.org/), [Git](https://git-scm.com/download/win) and a [text editor](https://www.sublimetext.com/3) of your choice.
 2. Add Python to [System Path](https://www.pythoncentral.io/add-python-to-path-python-is-not-recognized-as-an-internal-or-external-command/)
 
    * Locate `Python3` from your local computer. Usually located in the following folder:
@@ -71,6 +71,11 @@ This project uses [Python3](https://www.python.org/)
 
    ```
    python main.py
+   ```
+
+2. In a R terminal
+   ```
+   source('main.R')
    ```
 
 

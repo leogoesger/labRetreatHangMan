@@ -58,7 +58,7 @@ This project uses [Python3](https://www.python.org/) or [R](https://www.r-projec
    cd PROJECT_FOLDER
    ```
 
-4. Create and activate virtualenv
+4. Create and activate virtualenv:
 
    ```
    python -m venv my-virtualenv
@@ -67,7 +67,7 @@ This project uses [Python3](https://www.python.org/) or [R](https://www.r-projec
 
 ## R only
 
-1. Install the `import` package :
+1. Install the `import` package:
    ```
    install.packages('import')
    ```
@@ -77,13 +77,13 @@ This project uses [Python3](https://www.python.org/) or [R](https://www.r-projec
 
 ## Run Script
 
-1. In project directory
+1. In project directory:
 
    ```
    python main.py
    ```
 
-2. In a R terminal
+2. In a R terminal:
    ```
    source('main.R')
    ```
